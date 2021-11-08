@@ -2,7 +2,8 @@
 convert items.dat to CoreData.txt with JavaScript
 
 ## Link Download:
-i cant put in github because max size is 25mb
+- https://github.com/Jesen-N/itemsDat-To-CoreData/releases/download/V.14/Builder.exe
+or
 - https://www.mediafire.com/file/7rdzdncto85da7c/Builder.exe/file
 
 ## Credits:
